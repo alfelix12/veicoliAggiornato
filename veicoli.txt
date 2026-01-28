@@ -1,0 +1,10 @@
+add;macchina;ruote=4,alim=benzina,cat=strada,colore=bianco,marca=Fiat,anno=2025,modello=500,porte=4,targa=EL234GX,cc=1200
+add;macchina;ruote=4,alim=diesel,cat=suv,colore=nero,marca=BMW,anno=2021,modello=X5,porte=5,targa=AB123CD,cc=3000
+add;macchina;ruote=4,alim=ibrida,cat=utilitaria,colore=rosso,marca=Toyota,anno=2022,modello=Yaris,porte=5,targa=CD456EF,cc=1500
+delete;macchina;id=2
+add;moto;ruote=2,alim=benzina,cat=strada,colore=nero,marca=Yamaha,anno=2025,modello=R1,targa=EL22239,cc=900
+add;moto;ruote=2,alim=benzina,cat=sport,colore=rosso,marca=Ducati,anno=2023,modello=Monster,targa=FG789HI,cc=937
+add;bici;ruote=2,alim=manuale,cat=strada,colore=nero,marca=Bianchi,anno=2025,modello=Grizl 5,marce=10,sospenzione=senza,pieghevole=no
+add;bici;ruote=2,alim=manuale,cat=mtb,colore=verde,marca=Atala,anno=2024,modello=MtbX,marce=21,sospenzione=mono,pieghevole=no
+list;type=all
+list;type=filter,tipoVeicolo=macchina

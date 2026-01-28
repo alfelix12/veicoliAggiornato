@@ -1,0 +1,5 @@
+alim=benzina,diesel,elettrica,ibrida,manuale
+cat=strada,fuoristrada,suv,mtb,cross,utilitaria,sport
+colore=bianco,nero,verde,giallo,marrone,rosso,grigio,blu
+marca=Fiat,Renault,BMW,Tesla,Bianchi,Yamaha,Mercedes,Tecnizer,Toyota,Ducati,Atala
+sospenzione=senza,mono,bi,full
